@@ -1,0 +1,40 @@
+
+.review{
+    display: flex;
+
+    
+}
+.review img{
+    width:101px;
+}
+.review-details{
+    margin-left: 20px;
+
+}
+.review-details p{
+    margin: 0px;
+}
+.All{
+    display: flex;
+    border: 1px solid black;
+    margin: 15px;
+    align-items: center;
+    padding: 10px;
+    width: 50%;
+    justify-content: space-between;
+}
+ .icon{
+font-size: 31px;
+color:#EB5757;
+border:0px;
+ }
+
+.btn-delete{
+    border:0px;
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+   
+    border:0px;
+    background-color:rgba(235,87,87,0.3);
+}
